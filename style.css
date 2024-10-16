@@ -1,0 +1,66 @@
+body {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+    background-image: url(./fotos/grafico.gif);
+    background-color: coral;
+    color: rgba(235, 250, 19, 0.957);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.radio-player {
+    background-color: #404243;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+    box-shadow: 0 4px 10px rgba(146, 141, 141, 0.945);
+}
+
+.cover-container {
+    margin-bottom: 20px;
+}
+
+.cover-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #b82626;
+    border: none;
+    color: rgb(252, 248, 13);
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #e04040;
+}
+
+#current-track {
+    font-size: 16px;
+    margin-top: 20px;
+}
+.som{
+
+margin: 5px;
+padding: 5px;
+color:#ffe70b
+
+
+
+}
