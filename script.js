@@ -45,7 +45,8 @@ const tracks = [
     { src: 'musicas/Templo Soul ｜ Tô Legal.mp3', cover: 'fotos/templo.jpg', title : 'Templo Soul ｜ Tô Legal'},
     { src: 'musicas/Templo Soul ｜ Se Segura.mp3', cover: 'fotos/templo.jpg', title : 'Templo Soul ｜ Se Segura'},
     { src: 'musicas/Templo Soul feat Ton Carfi & Pregador Luo ).mp3', cover: 'fotos/templo.jpg', title : 'Como DEUS é bom'},
-   
+    { src: 'musicas/Deus vai te restituir.mp3', cover: 'fotos/trigo.jpg', title : 'Pregação: Restituição'},
+    { src: 'musicas/O mistério da porta fechada.mp3', cover: 'fotos/mistério.jpg', title : 'Pregação: O mistério da porta fechada'},
    
 
 
