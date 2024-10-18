@@ -32,6 +32,36 @@ const tracks = [
     { src: 'musicas/ESTÁS AQUI _ Suzano Selmo.mp3', cover: 'fotos/passos.jpg', title : 'Estás Aqui'},
     { src: 'musicas/14 O BOM SAMARITANO.mp3', cover: 'fotos/ungindo.jpg', title : 'o bom samaritano'},
     { src: 'musicas/10 Ousado Amor.mp3', cover: 'fotos/amor.jpg', title : 'ousado amor'},
+    { src: 'musicas/Quero As Aguas.mp3', cover: 'fotos/Quero As Aguas.jpg', title : 'Quero As Aguas'},
+    { src: 'musicas/O Fogo Arderá.mp3', cover: 'fotos/O Fogo Arderá.jpg', title : 'O Fogo Arderá'},
+    { src: 'musicas/Melhor Lugar.mp3', cover: 'fotos/melhor lugar.jpg', title : 'Melhor Lugar'},
+    { src: 'musicas/É Ele (Ao Vivo) • DROPS.mp3', cover: 'fotos/ele.jpg', title : 'É Ele'},
+    { src: 'musicas/Be One Music - Rei Do Meu Coração.mp3', cover: 'fotos/rei.jpg', title : 'Rei do meu Coração'},
+    { src: 'musicas/Templo Soul ｜ Emaús.mp3', cover: 'fotos/emaus.jpg', title :'Templo Soul ｜ Emaús' },
+    { src: 'musicas/Templo Soul ｜ Chega (Volume III).mp3', cover: 'fotos/Chega.jpg', title : 'Templo Soul ｜ Chega (Volume III)'},
+    { src: 'musicas/Rugido Do Leão.mp3', cover: 'fotos/Rugido Do Leão.jpg', title : 'Rugido Do Leão'},
+    { src: 'musicas/Templo Soul ｜ Não Pare.mp3', cover: 'fotos/templo.jpg', title : 'Não Pare'},
+    { src: 'musicas/Templo Soul ｜ Pista do Céu.mp3', cover: 'fotos/templo.jpg', title : 'Templo Soul ｜ Pista do Céu'},
+    { src: 'musicas/Templo Soul ｜ Tô Legal.mp3', cover: 'fotos/templo.jpg', title : 'Templo Soul ｜ Tô Legal'},
+    { src: 'musicas/Templo Soul ｜ Se Segura.mp3', cover: 'fotos/templo.jpg', title : 'Templo Soul ｜ Se Segura'},
+    { src: 'musicas/Templo Soul feat Ton Carfi & Pregador Luo ).mp3', cover: 'fotos/templo.jpg', title : 'Como DEUS é bom'},
+   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
 ];
 
